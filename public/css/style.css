@@ -33,6 +33,7 @@
 .chat-container {
     display: flex;
     height: calc(100vh - 100px); /* Full height minus nav height */
+    min-width: 430px;
 }
 
 /* Sidebar with user list */
